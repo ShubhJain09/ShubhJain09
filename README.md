@@ -1,14 +1,9 @@
-## Hi there 👋
-<!--
-  Profile layout adapted to closely match the reference at
-  https://github.com/mayankrajput00/mayankrajput00
-  The three decorative images are linked from that public README.
---><div align="center">
-  <img src="https://github.com/user-attachments/assets/a8994ae3-9488-4322-ba61-28498e8c0e31" alt="The Creation of Adam hands on a black background" width="100%" height="250" />
-</div><hr>
-<h1 align="center">
-  Namaste <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> I'm Shubh
-</h1><hr>🔗 Know About Me
+<img src="https://github.com/user-attachments/assets/a8994ae3-9488-4322-ba61-28498e8c0e31" alt="Hands reaching toward each other against a black background" width="100%" height="250" />
+</div><hr><h1 align="center"><code>shubh@github:~$ whoami</code></h1>
+<p align="center">
+  <strong>Shubh Jain</strong><br>
+  <sub>Applied AI · Open source · Curious by default</sub>
+</p><hr>🔗 Know About Me
 <table>
   <tr>
     <td width="30%">
